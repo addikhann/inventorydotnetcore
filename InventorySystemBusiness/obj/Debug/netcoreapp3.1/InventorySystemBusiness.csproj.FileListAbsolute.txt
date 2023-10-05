@@ -1,0 +1,13 @@
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\bin\Debug\netcoreapp3.1\InventorySystemBusiness.deps.json
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\bin\Debug\netcoreapp3.1\InventorySystemBusiness.runtimeconfig.json
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\bin\Debug\netcoreapp3.1\InventorySystemBusiness.runtimeconfig.dev.json
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\bin\Debug\netcoreapp3.1\InventorySystemBusiness.dll
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\bin\Debug\netcoreapp3.1\InventorySystemBusiness.pdb
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\obj\Debug\netcoreapp3.1\InventorySystemBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\obj\Debug\netcoreapp3.1\InventorySystemBusiness.AssemblyInfoInputs.cache
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\obj\Debug\netcoreapp3.1\InventorySystemBusiness.AssemblyInfo.cs
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\obj\Debug\netcoreapp3.1\InventorySystemBusiness.csproj.CoreCompileInputs.cache
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\obj\Debug\netcoreapp3.1\InventorySystemBusiness.dll
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\obj\Debug\netcoreapp3.1\InventorySystemBusiness.pdb
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\obj\Debug\netcoreapp3.1\InventorySystemBusiness.genruntimeconfig.cache
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemBusiness\obj\Debug\netcoreapp3.1\InventorySystemBusiness.csproj.AssemblyReference.cache

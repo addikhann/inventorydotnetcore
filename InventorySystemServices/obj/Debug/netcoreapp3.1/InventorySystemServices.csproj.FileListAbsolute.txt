@@ -1,0 +1,13 @@
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\bin\Debug\netcoreapp3.1\InventorySystemServices.deps.json
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\bin\Debug\netcoreapp3.1\InventorySystemServices.dll
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\bin\Debug\netcoreapp3.1\InventorySystemServices.pdb
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\obj\Debug\netcoreapp3.1\InventorySystemServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\obj\Debug\netcoreapp3.1\InventorySystemServices.AssemblyInfoInputs.cache
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\obj\Debug\netcoreapp3.1\InventorySystemServices.AssemblyInfo.cs
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\obj\Debug\netcoreapp3.1\InventorySystemServices.csproj.CoreCompileInputs.cache
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\obj\Debug\netcoreapp3.1\InventorySystemServices.dll
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\obj\Debug\netcoreapp3.1\InventorySystemServices.pdb
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\obj\Debug\netcoreapp3.1\InventorySystemServices.csproj.AssemblyReference.cache
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\bin\Debug\netcoreapp3.1\InventorySystemBusiness.dll
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\bin\Debug\netcoreapp3.1\InventorySystemBusiness.pdb
+C:\Users\mrspi\Source\Repos\InventorySystem\InventorySystemServices\obj\Debug\netcoreapp3.1\InventorySystemServices.csproj.CopyComplete
